@@ -1,0 +1,28 @@
+@font-face{
+	font-family: 'Bellota-Light';
+	src: url('fonts/Bellota-Light.ttf');
+}
+
+@font-face{
+	font-family: "potato";
+	src: url('fonts/Bellota-Lightitalic.ttf');
+}
+
+@font-face{
+	font-family: 'Bellota-Regular';
+	src: url('fonts/Bellota-Regular.ttf');
+}
+
+@font-face{
+	font-family: "naytoe";
+	src: url('fonts/Bellota-Italic.ttf');
+}
+
+@font-face{
+	font-family: "tomatos";
+	src: url("fonts/DancingScript-Bold.ttf");
+}
+@font-face{
+	font-family: "apple";
+	src: url("fonts/LiuJianMaoCao-Regular.ttf");
+}
